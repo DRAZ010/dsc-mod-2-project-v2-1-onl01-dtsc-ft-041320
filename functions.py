@@ -52,11 +52,11 @@ def reg_line (m, c, xs):
     
     return [(m*x)+c for x in xs]
 
-def plot_scatter_lin_reg(X, Y, regression_line, colName):
+def plot_scatter_lin_reg(X, Y, regression_line, colName, Ycol):
     plt.scatter(X,Y,color='#003F72', label="Data points")
     plt.plot(X, regression_line, label= "Regression Line")
-    plt.title(colName + ' vs. Price')
-    plt.ylabel('Price')
+    plt.title(colName + ' vs. ' + Ycol)
+    plt.ylabel(Ycol)
     plt.xlabel(colName)
     plt.legend()
     plt.show()
@@ -67,6 +67,6 @@ def get_sim_lin_reg(dfName, Ycol, subset):
         X, Y = dfName[col], dfName[Ycol]
         m, c = best_fit(X, Y)
         regression_line = reg_line(m, c, X)
-        plot_scatter_lin_reg(X, Y, regression_line, col)
+        plot_scatter_lin_reg(X, Y, regression_line, col, Ycol)
     return   
 
