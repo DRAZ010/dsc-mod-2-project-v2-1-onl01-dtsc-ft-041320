@@ -34,6 +34,30 @@ def get_mean_diff(values, dfName, colName):
     print(av_mean)
     return
 
+
+#LISTS
+
+def get_av_val(dfName, values, colName):
+    val_list = []
+    for val in values:
+        this_df = dfName.loc[dfName[colName] == val]
+        mean_grade = round(np.mean(this_df['grade']), 2)
+        val_list.append(mean_grade)
+    return(val_list)
+
+def get_av_diff(dfName, values, colName):
+    val_list = get_av_val(dfName, values, colName)
+    diff = []
+    i = 1
+    while i < len(val_list):
+        diff.append(val_list[i] - val_list[(i-1)])
+        i+=1
+    sum_list = sum(diff)
+    av_list = round(sum_list/len(diff), 2)
+    return av_list
+
+
+
 #PLOTTING Simple Linear Regression
 
 def calc_slope(xs,ys):

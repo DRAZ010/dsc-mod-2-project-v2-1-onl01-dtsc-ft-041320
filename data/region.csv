@@ -1,0 +1,321 @@
+Region Name,Region Type,Type,zillow_Current,zillow_Month Over Month,zillow_Quarter Over Quarter,zillow_Year Over Year,5 Year Annualized,10 Year Annualized,Current,Month Over Month,Quarter Over Quarter,Year Over Year
+"King County, WA - All Homes",,,,,,,,,,,,
+Statistic,,,Zillow Home Value Index,,,,,,Median value per sq. ft. ($),,,
+Region Name,Region Type,Type,Current,Month Over Month,Quarter Over Quarter,Year Over Year,5 Year Annualized,10 Year Annualized,Current,Month Over Month,Quarter Over Quarter,Year Over Year
+King County,county,All Homes,"$667,300",0.9%,2.7%,4.5%,8.8%,6.0%,$546,0.7%,2.6%,4.4%
+Adams,neighborhood,All Homes,"$723,500",0.5%,1.2%,-2.4%,8.3%,6.6%,$587,0.5%,1.2%,-2.3%
+Adelaide,neighborhood,All Homes,"$486,900",1.1%,3.5%,7.6%,6.8%,4.3%,$225,0.9%,3.2%,7.7%
+Adelaide,neighborhood,All Homes,"$1,350,100",1.2%,3.7%,5.0%,9.4%,6.3%,"$5,096",1.2%,3.7%,5.0%
+Admiral,neighborhood,All Homes,"$834,900",0.6%,2.1%,3.6%,7.5%,5.6%,"$1,101",0.6%,2.1%,3.7%
+Alder Crossing,neighborhood,All Homes,"$562,100",1.7%,4.2%,1.6%,8.4%,---,$321,1.6%,4.2%,1.6%
+Alderbrook,neighborhood,All Homes,"$440,200",1.0%,3.4%,9.3%,8.4%,4.7%,$225,0.9%,3.2%,9.2%
+Alki,neighborhood,All Homes,"$880,000",0.6%,2.0%,4.2%,7.3%,5.0%,$547,0.7%,2.1%,4.2%
+Arbor Heights,neighborhood,All Homes,"$624,000",0.3%,0.9%,-0.1%,8.7%,5.8%,$392,0.3%,0.8%,-0.3%
+Aspenwoods,neighborhood,All Homes,"$713,200",0.5%,2.1%,4.0%,7.5%,5.2%,$276,0.4%,2.2%,3.8%
+Aster Park,neighborhood,All Homes,"$768,800",0.7%,2.4%,1.7%,7.5%,5.9%,$263,0.8%,2.3%,1.9%
+Atlantic,neighborhood,All Homes,"$714,200",0.5%,1.7%,2.0%,9.5%,6.8%,$469,0.6%,1.7%,2.2%
+Ballinger,neighborhood,All Homes,"$498,300",0.4%,1.2%,2.7%,10.3%,5.7%,$413,0.5%,1.2%,2.7%
+Beacon Hill,neighborhood,All Homes,"$641,100",1.2%,4.1%,6.5%,10.5%,6.9%,$366,1.1%,4.0%,6.4%
+Bear Creek,neighborhood,All Homes,"$578,200",0.9%,3.0%,0.6%,9.6%,6.0%,$468,1.1%,3.1%,0.6%
+Belltown,neighborhood,All Homes,"$572,000",0.1%,0.5%,-4.1%,8.6%,5.2%,$741,0.1%,0.4%,-4.1%
+Beverly Park,neighborhood,All Homes,"$449,700",1.0%,3.9%,9.9%,11.5%,6.0%,$320,0.9%,3.9%,10.0%
+Bitter Lake,neighborhood,All Homes,"$607,800",0.9%,2.6%,2.6%,9.9%,6.5%,$603,1.0%,2.6%,2.7%
+Boulevard Park,neighborhood,All Homes,"$432,800",1.0%,3.3%,8.4%,11.5%,6.4%,$301,1.0%,3.4%,8.7%
+Briarcrest,neighborhood,All Homes,"$559,200",0.8%,2.4%,3.6%,9.9%,6.0%,$467,0.9%,2.6%,3.8%
+Bridle Trails,neighborhood,All Homes,"$1,282,300",0.9%,2.5%,4.1%,8.9%,7.1%,$507,0.8%,2.6%,4.1%
+Bridle Trails,neighborhood,All Homes,"$1,043,100",0.3%,1.0%,1.8%,9.6%,6.7%,$524,0.4%,1.0%,1.7%
+Brighton,neighborhood,All Homes,"$577,500",0.8%,2.8%,4.1%,11.3%,6.2%,$376,0.8%,2.7%,3.9%
+Broadmoor,neighborhood,All Homes,"$2,976,900",0.8%,2.1%,3.5%,6.3%,5.2%,$776,0.8%,2.1%,3.5%
+Broadview,neighborhood,All Homes,"$801,500",0.5%,1.6%,1.1%,7.5%,5.7%,$397,0.5%,1.5%,1.0%
+Brookfield,neighborhood,All Homes,"$639,300",0.9%,2.4%,3.0%,6.5%,5.3%,$269,1.1%,2.7%,3.1%
+Bryant,neighborhood,All Homes,"$912,800",0.7%,1.4%,0.9%,7.9%,6.6%,$540,0.7%,1.5%,0.9%
+Buenna,neighborhood,All Homes,"$512,000",1.0%,3.1%,8.4%,7.7%,4.2%,$241,0.8%,3.0%,8.1%
+Campus Highlands,neighborhood,All Homes,"$525,000",1.1%,3.8%,9.6%,7.6%,4.3%,$202,1.0%,3.6%,9.2%
+Capitol Hill,neighborhood,All Homes,"$710,600",0.4%,1.0%,-0.9%,7.8%,5.7%,$715,0.4%,1.0%,-1.0%
+Cascade,neighborhood,All Homes,"$419,800",1.3%,3.8%,9.4%,10.5%,6.2%,$314,1.3%,4.0%,9.4%
+Cedar Park,neighborhood,All Homes,"$715,000",0.7%,2.2%,1.9%,8.7%,6.1%,$422,0.7%,2.2%,1.7%
+Central Des Moines,neighborhood,All Homes,"$455,500",1.0%,3.2%,8.0%,10.0%,5.5%,$258,0.8%,3.2%,7.9%
+Chinquapin Ridge,neighborhood,All Homes,"$556,400",1.1%,3.7%,6.9%,8.1%,5.1%,$233,0.9%,3.6%,6.9%
+Clover Creek,neighborhood,All Homes,"$961,500",0.6%,1.4%,1.4%,7.1%,3.4%,$319,0.6%,1.3%,1.3%
+Columbia City,neighborhood,All Homes,"$695,100",0.5%,1.6%,2.5%,10.2%,6.8%,$463,0.7%,1.8%,2.7%
+Cougar Mountain,neighborhood,All Homes,"$1,284,000",0.5%,2.1%,2.9%,7.8%,6.3%,$423,0.5%,1.9%,2.9%
+Crossroads,neighborhood,All Homes,"$766,600",1.0%,3.0%,4.4%,10.5%,7.3%,$528,1.0%,3.1%,4.6%
+Crown Hill,neighborhood,All Homes,"$727,600",0.7%,2.0%,1.3%,9.0%,6.1%,$534,0.8%,2.1%,1.3%
+Denny - Blaine,neighborhood,All Homes,"$2,109,500",0.2%,0.9%,2.3%,7.0%,5.2%,$707,0.3%,1.0%,2.3%
+Denny Triangle,neighborhood,All Homes,"$863,700",0.5%,1.6%,-1.0%,10.3%,6.2%,$856,0.5%,1.5%,-1.0%
+Downtown,neighborhood,All Homes,"$708,700",1.3%,3.2%,4.0%,9.3%,6.9%,$490,1.2%,3.2%,3.8%
+Downtown,neighborhood,All Homes,"$380,600",1.5%,3.6%,3.5%,10.2%,5.3%,$361,1.4%,3.4%,3.4%
+Downtown,neighborhood,All Homes,"$815,000",-0.1%,-0.5%,-2.0%,5.8%,3.8%,$814,0.0%,-0.5%,-1.9%
+Downtown,neighborhood,All Homes,"$968,700",0.9%,2.6%,5.6%,9.4%,6.6%,$747,0.9%,2.8%,5.7%
+Dunlap,neighborhood,All Homes,"$503,400",0.9%,3.0%,4.5%,11.0%,5.9%,$377,0.8%,3.0%,4.4%
+Earlington Hill,neighborhood,All Homes,"$506,600",1.2%,4.4%,10.1%,10.6%,6.0%,$274,1.1%,4.6%,10.0%
+East Hill-Meridian,neighborhood,All Homes,"$459,200",0.9%,3.0%,8.2%,9.1%,5.5%,$439,0.9%,3.1%,8.1%
+East Queen Anne,neighborhood,All Homes,"$1,056,800",0.5%,1.8%,1.2%,8.1%,6.4%,$674,0.4%,1.7%,1.0%
+East Renton Highlands,neighborhood,All Homes,"$562,800",1.1%,3.6%,7.1%,8.0%,5.3%,$298,1.0%,3.5%,6.8%
+East Wellington,neighborhood,All Homes,"$942,100",0.8%,2.1%,4.8%,7.5%,5.4%,$350,0.6%,2.0%,4.8%
+Eastgate,neighborhood,All Homes,"$860,200",0.8%,2.2%,4.4%,9.2%,7.0%,"$1,066",0.8%,2.3%,4.4%
+Eastlake,neighborhood,All Homes,"$744,900",0.8%,2.7%,1.9%,7.9%,5.8%,$650,0.8%,2.7%,1.9%
+Echo Lake,neighborhood,All Homes,"$584,200",1.0%,2.7%,3.7%,10.4%,6.3%,$386,0.8%,2.7%,3.5%
+Edgewick,neighborhood,All Homes,"$804,100",-0.1%,1.6%,6.4%,7.5%,---,$379,-0.3%,1.6%,6.5%
+Education Hill,neighborhood,All Homes,"$852,300",1.1%,2.4%,3.3%,9.0%,7.0%,$437,1.2%,2.3%,3.3%
+Ellis Park,neighborhood,All Homes,"$807,700",1.0%,2.8%,2.5%,6.3%,5.3%,$286,1.1%,2.9%,2.5%
+Emerald Crest,neighborhood,All Homes,"$277,900",2.0%,4.2%,9.2%,9.2%,---,$203,2.0%,4.1%,9.1%
+Enatai,neighborhood,All Homes,"$1,709,200",0.7%,2.1%,3.0%,8.9%,7.3%,$626,0.6%,2.1%,3.0%
+Evansville,neighborhood,All Homes,"$447,500",1.0%,3.5%,8.5%,11.2%,5.8%,$329,0.9%,3.5%,8.2%
+Evendell,neighborhood,All Homes,"$644,300",0.9%,2.6%,4.8%,8.1%,5.6%,$291,1.0%,2.8%,5.1%
+Everest,neighborhood,All Homes,"$795,400",0.5%,1.8%,3.9%,10.4%,7.3%,$538,0.6%,1.9%,3.9%
+Factoria,neighborhood,All Homes,"$460,700",0.9%,2.3%,1.0%,10.3%,6.3%,$424,0.7%,2.2%,1.0%
+Fairmount Park,neighborhood,All Homes,"$680,900",0.8%,2.6%,4.1%,8.8%,6.1%,$541,0.7%,2.5%,4.0%
+Fairwood,neighborhood,All Homes,"$536,300",1.2%,4.0%,9.0%,8.3%,5.2%,$259,1.2%,4.0%,8.8%
+Falcon Ridge,neighborhood,All Homes,"$466,700",1.2%,3.3%,6.6%,9.1%,6.6%,$302,1.3%,3.4%,6.7%
+Fauntleroy,neighborhood,All Homes,"$844,400",0.5%,1.6%,3.1%,7.4%,5.2%,$414,0.5%,1.7%,3.0%
+Finn Hill,neighborhood,All Homes,"$770,800",0.8%,2.2%,3.6%,8.9%,6.4%,$842,0.7%,2.2%,3.6%
+First Hill,neighborhood,All Homes,"$503,900",0.4%,1.2%,-1.2%,8.1%,5.8%,$720,0.4%,1.3%,-1.1%
+Five Corners,neighborhood,All Homes,"$511,600",0.9%,2.9%,6.4%,9.9%,5.6%,$280,1.1%,2.9%,6.5%
+Forest Service/Mt. SI,neighborhood,All Homes,"$603,500",1.0%,3.3%,6.0%,8.1%,3.8%,$334,0.9%,3.1%,6.0%
+Forster Woods,neighborhood,All Homes,"$744,900",1.1%,3.7%,8.7%,9.3%,5.8%,$325,0.9%,3.5%,8.7%
+Fremont,neighborhood,All Homes,"$821,700",0.7%,1.8%,1.3%,8.2%,6.6%,$615,0.7%,1.7%,1.2%
+Gatewood,neighborhood,All Homes,"$725,500",0.6%,1.9%,3.0%,8.3%,5.8%,$440,0.5%,1.9%,3.0%
+Genesee,neighborhood,All Homes,"$753,800",0.6%,2.1%,3.2%,7.9%,6.0%,$495,0.6%,2.3%,3.3%
+Georgetown,neighborhood,All Homes,"$607,300",1.3%,4.5%,6.6%,11.2%,5.9%,$450,1.4%,4.4%,6.6%
+Glencoe,neighborhood,All Homes,"$561,000",0.8%,2.0%,2.3%,8.8%,5.9%,$304,1.0%,2.0%,2.4%
+Grass Lawn,neighborhood,All Homes,"$829,400",1.4%,4.6%,8.5%,10.6%,7.7%,$538,1.3%,4.5%,8.5%
+Green Lake,neighborhood,All Homes,"$896,500",0.9%,2.4%,1.5%,7.8%,6.4%,$587,0.9%,2.3%,1.4%
+Greenwood,neighborhood,All Homes,"$719,900",0.8%,2.2%,0.6%,9.3%,6.7%,$551,0.9%,2.4%,0.7%
+Gregory Heights,neighborhood,All Homes,"$645,000",0.9%,2.3%,3.4%,8.2%,5.3%,$333,0.9%,2.1%,3.4%
+Haller Lake,neighborhood,All Homes,"$639,300",1.0%,3.4%,4.7%,9.4%,6.3%,$447,1.1%,3.5%,4.7%
+Hawthorne Hills,neighborhood,All Homes,"$1,168,800",0.9%,2.5%,4.6%,9.1%,6.8%,$518,1.0%,2.6%,4.6%
+Heather Downs,neighborhood,All Homes,"$503,900",1.4%,5.3%,12.9%,9.1%,5.5%,$328,1.5%,5.5%,13.1%
+Heritage Garden Estates,neighborhood,All Homes,"$758,600",0.8%,2.0%,1.3%,---,---,$218,0.9%,1.9%,1.4%
+Hidden Valley,neighborhood,All Homes,"$1,663,900",1.1%,3.2%,6.9%,11.7%,9.1%,$853,1.1%,3.1%,6.9%
+High Point,neighborhood,All Homes,"$563,600",0.4%,1.7%,2.1%,9.5%,6.0%,$392,0.3%,1.6%,2.1%
+Highbury Park,neighborhood,All Homes,"$530,300",1.2%,3.6%,8.2%,9.3%,6.0%,$297,1.0%,3.5%,8.0%
+Highland Estates,neighborhood,All Homes,"$677,100",0.3%,0.8%,1.3%,7.0%,5.5%,$284,0.4%,0.7%,1.4%
+Highland Park,neighborhood,All Homes,"$550,000",0.8%,2.5%,3.5%,11.7%,6.5%,$398,0.8%,2.6%,3.6%
+Highland Terrace,neighborhood,All Homes,"$624,600",0.4%,1.5%,1.7%,9.2%,6.1%,$392,0.5%,1.6%,1.8%
+Highlands,neighborhood,All Homes,"$1,072,300",0.5%,0.7%,1.1%,9.0%,7.2%,$507,0.4%,0.8%,1.2%
+Highline,neighborhood,All Homes,"$466,400",1.0%,3.1%,7.7%,11.0%,7.3%,$280,1.1%,3.3%,7.7%
+Hillman City,neighborhood,All Homes,"$626,100",1.2%,3.4%,4.3%,11.3%,5.8%,$446,1.1%,3.2%,4.2%
+Hillwood,neighborhood,All Homes,"$648,500",1.0%,2.8%,4.5%,9.6%,6.3%,$361,0.8%,2.8%,4.3%
+Holly Park,neighborhood,All Homes,"$541,700",0.5%,2.0%,1.3%,10.2%,5.2%,$346,0.6%,2.1%,1.2%
+Honey Creek Park,neighborhood,All Homes,"$565,000",0.6%,1.6%,3.1%,8.8%,6.0%,$290,0.7%,1.8%,3.2%
+Honey Creek Ridge,neighborhood,All Homes,"$675,100",0.1%,0.2%,-0.2%,7.6%,5.3%,$283,0.0%,0.0%,-0.4%
+Houghton,neighborhood,All Homes,"$1,448,700",0.5%,1.5%,3.5%,10.4%,8.0%,$635,0.5%,1.6%,3.6%
+Idylwood,neighborhood,All Homes,"$978,800",1.1%,3.4%,5.7%,9.8%,7.3%,$462,1.1%,3.4%,5.5%
+Industrial District,neighborhood,All Homes,"$594,200",0.8%,2.1%,2.8%,9.3%,7.1%,$405,0.7%,2.3%,2.8%
+Inglesea,neighborhood,All Homes,"$462,100",1.2%,3.1%,6.1%,8.6%,4.8%,$313,1.0%,3.0%,6.1%
+Inglewood,neighborhood,All Homes,"$792,700",0.8%,2.6%,4.5%,8.4%,6.2%,$361,0.8%,2.6%,4.3%
+Inglewood,neighborhood,All Homes,"$816,100",0.7%,2.5%,4.6%,8.3%,6.1%,$388,0.8%,2.4%,4.6%
+Innis Arden,neighborhood,All Homes,"$1,379,400",-0.1%,0.5%,0.1%,6.6%,4.7%,$483,-0.2%,0.4%,0.0%
+Interbay,neighborhood,All Homes,"$742,400",0.7%,2.2%,0.7%,8.9%,6.4%,$567,0.5%,2.2%,0.5%
+Interlake,neighborhood,All Homes,"$917,900",1.2%,3.2%,4.3%,9.3%,7.2%,$463,1.3%,3.3%,4.3%
+International District,neighborhood,All Homes,"$428,600",0.4%,1.7%,1.0%,7.8%,5.1%,$575,0.5%,1.8%,1.1%
+Issaquah Highlands,neighborhood,All Homes,"$834,600",0.8%,2.7%,3.5%,8.1%,6.0%,$427,0.7%,2.6%,3.4%
+Issaquah Valley,neighborhood,All Homes,"$642,400",0.7%,2.4%,4.4%,9.6%,6.5%,$453,0.7%,2.5%,4.4%
+Jackson Place,neighborhood,All Homes,"$657,600",0.3%,1.4%,1.4%,9.8%,6.8%,$544,0.4%,1.5%,1.5%
+Jericho Estates,neighborhood,All Homes,"$761,000",0.6%,1.8%,3.1%,6.6%,5.2%,$268,0.8%,1.9%,3.1%
+Judkins Park,neighborhood,All Homes,"$701,300",0.4%,1.8%,1.6%,10.0%,7.0%,$528,0.4%,1.7%,1.5%
+Kennydale,neighborhood,All Homes,"$643,700",0.6%,1.4%,2.7%,8.4%,6.4%,$335,0.6%,1.5%,2.8%
+Kingsgate,neighborhood,All Homes,"$732,400",1.0%,3.5%,5.3%,9.9%,7.0%,$964,1.0%,3.4%,5.4%
+Kitts Corner,neighborhood,All Homes,"$258,900",0.7%,2.2%,6.9%,11.3%,4.1%,$227,0.4%,1.8%,6.6%
+Klahanie,neighborhood,All Homes,"$827,700",0.7%,2.1%,3.1%,8.0%,6.5%,$411,0.7%,2.0%,3.0%
+LaCrosse,neighborhood,All Homes,"$860,000",0.7%,2.1%,2.7%,6.7%,4.9%,$311,0.6%,2.0%,2.6%
+Lake Hills,neighborhood,All Homes,"$829,300",0.5%,1.8%,2.2%,9.5%,7.2%,$460,0.7%,2.0%,2.2%
+Lake Meridian,neighborhood,All Homes,"$596,800",1.4%,3.5%,7.2%,6.8%,4.1%,$240,1.7%,3.9%,7.6%
+Lake Morton-Berrydale,neighborhood,All Homes,"$530,800",1.1%,3.3%,8.6%,8.3%,5.0%,$827,1.1%,3.4%,8.7%
+Lake Ota,neighborhood,All Homes,"$323,200",1.1%,3.8%,9.5%,10.6%,5.8%,$253,0.8%,3.7%,9.5%
+Lake View,neighborhood,All Homes,"$1,350,300",0.6%,2.0%,4.0%,9.0%,6.8%,$748,0.5%,2.0%,4.0%
+Lakeland North,neighborhood,All Homes,"$416,700",1.3%,3.8%,8.7%,9.2%,5.0%,$241,1.3%,3.9%,8.6%
+Lakeland South,neighborhood,All Homes,"$448,000",1.3%,4.2%,11.5%,8.9%,4.9%,$224,1.4%,4.2%,11.4%
+Lakeview,neighborhood,All Homes,"$243,200",1.7%,6.0%,11.3%,11.0%,5.5%,$311,1.6%,5.8%,11.1%
+Lakewood,neighborhood,All Homes,"$836,700",0.6%,1.6%,3.5%,8.5%,6.0%,$449,0.4%,1.6%,3.5%
+Laurelhurst,neighborhood,All Homes,"$1,697,200",0.6%,1.8%,2.6%,7.5%,5.6%,$623,0.6%,2.0%,2.6%
+Laurelwood,neighborhood,All Homes,"$408,700",1.3%,3.4%,8.7%,9.2%,5.3%,$243,1.3%,3.4%,9.0%
+Lea Hill,neighborhood,All Homes,"$479,900",1.2%,4.0%,9.0%,8.2%,4.8%,$216,1.4%,3.8%,9.1%
+Leisure Estates,neighborhood,All Homes,"$467,600",1.1%,3.4%,5.4%,8.6%,5.4%,$320,0.9%,3.2%,5.6%
+Leschi,neighborhood,All Homes,"$1,007,200",0.6%,2.1%,3.2%,8.4%,6.1%,$577,0.7%,2.1%,3.2%
+Liberty Grove,neighborhood,All Homes,"$858,500",0.2%,0.4%,-1.7%,6.5%,5.1%,$259,0.4%,0.4%,-1.9%
+Liberty Ridge,neighborhood,All Homes,"$567,200",0.9%,2.2%,5.0%,8.3%,4.8%,$232,0.9%,2.2%,5.0%
+Lower Queen Anne,neighborhood,All Homes,"$764,700",0.9%,2.2%,0.7%,7.8%,5.5%,$676,0.9%,2.1%,0.7%
+Lower West Ridge,neighborhood,All Homes,"$665,900",0.8%,2.4%,2.4%,9.0%,6.3%,$386,0.8%,2.4%,2.4%
+Loyal Heights,neighborhood,All Homes,"$843,000",0.6%,1.9%,2.4%,8.0%,6.5%,$534,0.8%,1.9%,2.5%
+Madison Park,neighborhood,All Homes,"$1,674,700",0.3%,1.5%,2.8%,7.5%,5.4%,$810,0.4%,1.5%,2.9%
+Madison Valley,neighborhood,All Homes,"$910,600",0.7%,2.5%,3.5%,7.9%,6.6%,$615,0.8%,2.5%,3.5%
+Madrona,neighborhood,All Homes,"$424,100",1.0%,3.6%,10.0%,9.2%,5.0%,$243,1.3%,3.4%,10.0%
+Madrona,neighborhood,All Homes,"$1,123,900",0.3%,0.8%,1.3%,8.3%,6.6%,$573,0.4%,0.9%,1.4%
+Magnolia,neighborhood,All Homes,"$1,027,200",0.5%,1.8%,3.0%,7.5%,5.9%,"$1,092",0.5%,1.8%,3.0%
+Maloney Grove,neighborhood,All Homes,"$744,500",0.7%,2.4%,6.2%,8.0%,5.3%,$296,0.7%,2.4%,6.1%
+Mann,neighborhood,All Homes,"$829,200",0.9%,2.7%,4.2%,9.5%,7.6%,$532,0.9%,2.7%,4.1%
+Maple Heights-Lake Desire,neighborhood,All Homes,"$657,600",0.9%,2.6%,5.5%,7.8%,4.5%,$253,0.8%,2.8%,5.4%
+Maple Leaf,neighborhood,All Homes,"$787,100",0.6%,2.2%,2.7%,8.8%,6.9%,$494,0.6%,2.1%,2.7%
+Maple Ridge Estates,neighborhood,All Homes,"$580,200",1.0%,3.0%,5.9%,7.8%,5.4%,$250,0.8%,2.9%,5.9%
+Maplewood,neighborhood,All Homes,"$446,300",1.3%,3.2%,8.1%,8.7%,5.7%,$301,1.3%,3.1%,7.9%
+Maplewood Estates,neighborhood,All Homes,"$723,600",0.7%,2.1%,2.0%,7.0%,5.7%,$268,0.8%,1.9%,1.9%
+Maplewood Glen,neighborhood,All Homes,"$394,800",1.5%,3.4%,7.9%,10.1%,4.9%,$428,1.4%,3.4%,7.8%
+Marina District,neighborhood,All Homes,"$342,900",0.6%,1.8%,1.7%,8.6%,4.0%,$322,0.3%,1.6%,1.6%
+Marine Hills,neighborhood,All Homes,"$584,800",0.9%,3.4%,9.5%,7.0%,3.8%,$221,0.9%,3.3%,9.4%
+Market-Downtown,neighborhood,All Homes,"$2,119,500",0.7%,2.1%,4.4%,8.8%,7.2%,$819,0.7%,2.1%,4.3%
+Matthews Beach,neighborhood,All Homes,"$865,200",0.8%,2.1%,3.2%,8.5%,6.4%,$415,0.7%,2.0%,3.0%
+Maureen Highlands,neighborhood,All Homes,"$754,400",0.9%,2.8%,3.6%,7.9%,5.3%,$297,0.7%,2.8%,3.5%
+May Creek,neighborhood,All Homes,"$737,400",0.8%,2.2%,5.4%,8.4%,5.3%,$280,0.7%,2.2%,5.3%
+Meadowbrook,neighborhood,All Homes,"$757,500",0.4%,1.1%,0.9%,9.2%,6.7%,$456,0.4%,1.1%,0.9%
+Meadowbrook/Tollgate,neighborhood,All Homes,"$592,300",0.7%,2.6%,6.4%,8.4%,4.6%,$392,0.8%,2.6%,6.2%
+Meridian Park,neighborhood,All Homes,"$622,300",0.8%,2.5%,3.5%,10.7%,7.0%,$363,0.6%,2.3%,3.4%
+Meydenbauer,neighborhood,All Homes,"$1,748,200",1.2%,3.5%,5.5%,9.6%,7.2%,$775,1.2%,3.5%,5.4%
+Middle Fork,neighborhood,All Homes,"$851,000",0.2%,1.5%,4.3%,8.3%,5.0%,$295,0.0%,1.4%,4.2%
+Mill Creek,neighborhood,All Homes,"$393,000",1.1%,3.4%,8.3%,9.4%,5.5%,$278,1.1%,3.7%,8.6%
+Minor,neighborhood,All Homes,"$795,700",0.7%,2.3%,2.9%,9.4%,7.3%,"$1,603",0.8%,2.3%,3.0%
+Mirror Lake,neighborhood,All Homes,"$367,700",1.2%,3.7%,10.3%,10.2%,5.5%,$280,1.1%,3.7%,10.2%
+Mirrormont,neighborhood,All Homes,"$763,300",1.1%,3.1%,5.5%,6.7%,4.6%,$301,1.0%,3.1%,5.2%
+Monohan,neighborhood,All Homes,"$1,153,100",0.4%,1.4%,2.8%,7.4%,6.4%,$426,0.5%,1.4%,2.7%
+Monterrey Terrace,neighborhood,All Homes,"$710,000",0.1%,1.2%,12.1%,10.2%,7.1%,$321,0.3%,1.3%,12.2%
+Montlake,neighborhood,All Homes,"$1,269,400",0.8%,2.9%,5.0%,7.3%,6.0%,$575,0.7%,2.9%,4.9%
+Montreux,neighborhood,All Homes,"$1,425,400",-0.9%,-3.0%,-5.5%,5.9%,4.7%,$408,-1.0%,-3.1%,-5.6%
+Moorlands,neighborhood,All Homes,"$726,300",0.6%,1.9%,1.6%,8.5%,6.3%,$894,0.6%,1.9%,1.6%
+Moss Bay,neighborhood,All Homes,"$869,200",0.8%,2.2%,3.2%,9.2%,6.3%,$649,0.6%,2.0%,3.2%
+Mount View,neighborhood,All Homes,"$486,400",1.3%,4.7%,9.9%,12.1%,6.2%,$306,1.3%,4.4%,9.7%
+Mt. Baker,neighborhood,All Homes,"$908,700",0.4%,1.4%,2.5%,8.1%,5.8%,$465,0.4%,1.3%,2.4%
+Newport Hills,neighborhood,All Homes,"$859,900",1.5%,4.0%,3.8%,9.4%,7.1%,$422,1.4%,3.9%,3.7%
+Newport Shores,neighborhood,All Homes,"$1,028,400",0.9%,2.3%,4.2%,8.8%,6.8%,$511,0.8%,2.2%,4.1%
+Nichols Place,neighborhood,All Homes,"$639,500",0.7%,2.3%,3.7%,6.4%,4.9%,$272,0.7%,2.3%,3.8%
+Norkirk,neighborhood,All Homes,"$1,382,400",0.4%,1.1%,3.7%,9.5%,7.3%,$723,0.4%,1.1%,3.7%
+North Beach,neighborhood,All Homes,"$1,082,000",0.2%,1.1%,3.3%,7.7%,5.5%,$451,0.2%,1.1%,3.2%
+North Beacon Hill,neighborhood,All Homes,"$709,700",0.3%,1.8%,2.2%,9.9%,7.1%,$480,0.4%,1.9%,2.1%
+North Central,neighborhood,All Homes,"$433,600",1.5%,4.1%,9.8%,10.4%,5.5%,$279,1.5%,3.7%,9.4%
+North City,neighborhood,All Homes,"$587,100",1.0%,3.1%,4.2%,10.4%,6.4%,$414,1.0%,3.0%,4.0%
+North College Park,neighborhood,All Homes,"$645,000",0.6%,2.2%,-1.2%,9.1%,6.5%,"$1,499",0.7%,2.3%,-1.1%
+North Creek,neighborhood,All Homes,"$658,500",1.0%,3.1%,4.1%,8.8%,5.9%,$361,1.1%,3.1%,4.0%
+North Delridge,neighborhood,All Homes,"$603,200",0.6%,2.5%,3.2%,10.4%,6.4%,$455,0.7%,2.5%,3.2%
+North Hill,neighborhood,All Homes,"$465,200",1.3%,3.2%,6.7%,9.9%,5.4%,$281,1.1%,3.3%,6.4%
+North Juanita,neighborhood,All Homes,"$660,300",1.1%,3.3%,4.2%,10.2%,7.1%,$481,1.3%,3.2%,4.3%
+North Queen Anne,neighborhood,All Homes,"$1,002,700",0.4%,1.2%,-0.6%,8.0%,6.3%,$617,0.3%,1.1%,-0.6%
+North Redmond,neighborhood,All Homes,"$1,251,200",1.2%,4.0%,6.0%,8.7%,6.6%,$396,1.3%,3.9%,5.9%
+North Renton,neighborhood,All Homes,"$415,800",1.2%,3.5%,7.6%,10.4%,6.3%,$345,1.2%,3.3%,7.5%
+North Rose Hill,neighborhood,All Homes,"$819,100",1.4%,4.3%,6.3%,10.3%,7.2%,$520,1.4%,4.4%,6.3%
+Northgate,neighborhood,All Homes,"$469,300",0.7%,1.6%,-0.6%,10.3%,6.3%,$452,0.7%,1.6%,-0.7%
+Northwest Bellevue,neighborhood,All Homes,"$1,833,400",0.7%,2.0%,4.2%,10.0%,7.5%,$852,0.7%,2.0%,4.3%
+Old Burien,neighborhood,All Homes,"$538,500",1.2%,3.2%,6.1%,10.2%,5.5%,$331,1.2%,3.1%,6.1%
+Olympic Hills,neighborhood,All Homes,"$618,900",0.8%,2.5%,1.7%,9.1%,6.1%,$441,0.7%,2.3%,1.6%
+One Union Place,neighborhood,All Homes,"$775,600",1.5%,4.1%,6.5%,7.6%,5.4%,$270,1.5%,3.8%,6.3%
+Opstad,neighborhood,All Homes,"$572,100",0.7%,1.9%,5.2%,8.4%,5.2%,$354,0.6%,2.0%,5.0%
+Orchards,neighborhood,All Homes,"$584,000",1.1%,3.6%,6.9%,7.7%,5.7%,$314,1.0%,3.6%,6.8%
+Overlake,neighborhood,All Homes,"$802,500",0.6%,1.0%,1.2%,9.8%,7.3%,$519,0.6%,1.0%,1.2%
+Overlake,neighborhood,All Homes,"$929,500",0.9%,2.1%,2.8%,8.7%,6.6%,$432,0.9%,2.1%,2.9%
+Pacific Ridge,neighborhood,All Homes,"$218,600",1.2%,3.7%,9.0%,10.2%,5.9%,$203,1.0%,3.6%,8.6%
+Parkside Court,neighborhood,All Homes,"$728,600",0.7%,2.5%,5.9%,9.0%,6.3%,$291,0.7%,2.5%,5.8%
+Parkwood,neighborhood,All Homes,"$623,400",0.4%,1.8%,3.0%,10.2%,6.9%,$391,0.3%,1.8%,2.9%
+Phantom Lake,neighborhood,All Homes,"$928,500",0.9%,3.0%,5.4%,9.1%,6.9%,$422,0.7%,2.9%,5.2%
+Phinney Ridge,neighborhood,All Homes,"$917,000",0.9%,2.3%,2.3%,7.5%,6.4%,$571,0.9%,2.3%,2.3%
+Pine Lake,neighborhood,All Homes,"$1,131,400",0.7%,2.2%,3.4%,7.4%,6.1%,$385,0.8%,2.4%,3.5%
+Pinehurst,neighborhood,All Homes,"$625,800",0.5%,1.4%,-0.6%,9.2%,6.2%,$468,0.6%,1.5%,-0.4%
+Pioneer Place,neighborhood,All Homes,"$538,200",0.7%,1.5%,5.4%,7.6%,4.8%,$230,0.4%,1.3%,5.5%
+Pioneer Square,neighborhood,All Homes,"$667,500",0.9%,2.4%,4.2%,8.4%,5.0%,$669,0.9%,2.3%,4.2%
+Ponderosa Estates,neighborhood,All Homes,"$467,400",0.2%,1.5%,6.8%,8.1%,6.3%,$289,0.0%,1.4%,6.6%
+Portage Bay,neighborhood,All Homes,"$1,210,700",0.1%,0.5%,0.0%,6.8%,5.5%,$579,0.2%,0.5%,0.0%
+President Park,neighborhood,All Homes,"$447,600",0.9%,2.8%,5.4%,9.3%,5.6%,"$1,512",0.9%,2.8%,5.4%
+Preston,neighborhood,All Homes,"$799,400",1.7%,5.0%,8.2%,7.6%,5.1%,$346,1.8%,4.8%,8.1%
+Providence Point,neighborhood,All Homes,"$404,300",0.5%,1.4%,-0.7%,7.7%,6.1%,$309,0.7%,1.3%,-0.6%
+Rainier Beach,neighborhood,All Homes,"$562,500",1.0%,3.0%,3.0%,11.5%,6.7%,$312,1.0%,3.0%,3.0%
+Rainier View,neighborhood,All Homes,"$476,300",0.9%,2.5%,5.3%,12.1%,6.8%,$315,1.0%,2.6%,5.4%
+Ravenna,neighborhood,All Homes,"$910,400",0.8%,1.8%,1.3%,7.7%,6.5%,$568,0.9%,1.8%,1.2%
+Redondo,neighborhood,All Homes,"$346,000",1.2%,3.6%,8.3%,9.4%,4.4%,$456,1.3%,3.6%,8.3%
+Redondo,neighborhood,All Homes,"$491,100",1.4%,4.0%,8.1%,6.6%,2.7%,$298,1.4%,3.8%,8.0%
+Reinwood Leota,neighborhood,All Homes,"$988,800",0.6%,1.6%,4.0%,7.4%,5.3%,$364,0.6%,1.4%,4.0%
+Renton Hill,neighborhood,All Homes,"$554,400",2.0%,5.2%,9.9%,8.6%,5.2%,$301,2.0%,5.2%,9.9%
+Renton Park,neighborhood,All Homes,"$456,600",1.4%,4.3%,7.3%,9.3%,6.1%,$282,1.4%,4.4%,7.2%
+Richmond Beach,neighborhood,All Homes,"$814,700",1.0%,2.4%,4.5%,8.0%,6.2%,$375,1.1%,2.5%,4.5%
+Richmond Highlands,neighborhood,All Homes,"$664,200",0.8%,2.9%,5.2%,9.4%,6.6%,$365,0.8%,2.8%,5.2%
+Ridgecrest,neighborhood,All Homes,"$585,300",0.9%,2.8%,3.4%,10.2%,6.3%,$432,0.9%,2.6%,3.3%
+Riverbend,neighborhood,All Homes,"$484,300",0.9%,2.8%,6.5%,8.8%,5.1%,$330,0.9%,2.8%,6.5%
+Riverview,neighborhood,All Homes,"$396,200",1.5%,5.2%,11.1%,9.0%,5.0%,$251,1.6%,5.0%,11.1%
+Riverview,neighborhood,All Homes,"$606,000",1.1%,3.1%,5.6%,11.3%,6.3%,$399,1.3%,3.1%,5.6%
+Robinswood,neighborhood,All Homes,"$829,500",0.9%,2.2%,3.4%,10.0%,7.7%,$513,1.0%,2.2%,3.4%
+Rolling Hills,neighborhood,All Homes,"$503,500",1.1%,4.1%,10.0%,9.4%,5.6%,$278,1.1%,4.1%,9.9%
+Roosevelt,neighborhood,All Homes,"$836,400",0.8%,2.1%,1.0%,7.2%,6.1%,$496,0.8%,2.1%,0.8%
+Rose Hill,neighborhood,All Homes,"$792,400",1.1%,3.3%,4.1%,9.4%,6.8%,$507,1.2%,3.3%,4.1%
+Roxhill,neighborhood,All Homes,"$589,800",0.6%,2.2%,3.6%,10.5%,6.5%,$486,0.6%,2.3%,3.6%
+SE Redmond,neighborhood,All Homes,"$793,800",1.0%,3.1%,5.2%,8.7%,6.9%,$471,1.1%,3.1%,5.1%
+Saltair Hills,neighborhood,All Homes,"$360,700",1.7%,5.0%,11.7%,11.7%,5.6%,$319,1.9%,4.9%,11.9%
+Sammamish Valley,neighborhood,All Homes,"$1,539,500",1.0%,3.1%,5.9%,10.8%,6.0%,$409,1.2%,3.3%,6.0%
+Scenic Hill,neighborhood,All Homes,"$446,700",0.9%,3.3%,8.6%,8.5%,5.4%,$228,0.9%,3.2%,8.6%
+Seahurst,neighborhood,All Homes,"$646,300",1.1%,3.1%,5.3%,7.9%,4.5%,$299,1.0%,3.1%,5.3%
+Seaview,neighborhood,All Homes,"$779,400",0.8%,2.3%,4.1%,8.2%,5.9%,$462,0.7%,2.2%,4.1%
+Seola Beach,neighborhood,All Homes,"$888,900",1.3%,3.4%,8.0%,7.1%,4.9%,$355,1.4%,3.5%,7.9%
+Seward Park,neighborhood,All Homes,"$947,200",0.4%,1.5%,2.9%,8.3%,5.9%,$419,0.2%,1.5%,2.7%
+Shadow Hawk,neighborhood,All Homes,"$336,200",1.1%,3.6%,8.6%,9.7%,5.1%,$282,1.1%,3.7%,8.5%
+Shamrock Heights,neighborhood,All Homes,"$784,000",1.0%,2.6%,2.9%,7.2%,5.7%,$283,1.1%,2.5%,2.9%
+Shorewood,neighborhood,All Homes,"$603,100",1.2%,2.7%,5.5%,9.2%,5.8%,$309,1.3%,2.7%,5.5%
+Si View,neighborhood,All Homes,"$729,800",0.7%,2.4%,5.2%,9.5%,6.2%,$310,0.6%,2.3%,5.1%
+Silver Creek,neighborhood,All Homes,"$591,400",1.3%,4.2%,9.0%,10.7%,5.7%,$311,1.3%,4.4%,9.1%
+Snake Hill,neighborhood,All Homes,"$544,000",0.8%,3.3%,7.2%,8.2%,5.4%,$251,0.8%,3.3%,7.3%
+Somerset,neighborhood,All Homes,"$1,310,400",1.0%,3.1%,5.0%,8.0%,7.1%,$474,1.1%,3.0%,5.1%
+Sorrento,neighborhood,All Homes,"$820,900",0.7%,2.8%,4.6%,7.6%,6.1%,$279,0.7%,2.6%,4.5%
+South Beacon Hill,neighborhood,All Homes,"$519,100",0.2%,0.6%,0.5%,9.6%,6.2%,$876,0.2%,0.7%,0.6%
+South Cove,neighborhood,All Homes,"$964,300",1.1%,3.9%,5.9%,8.9%,6.5%,$423,1.0%,3.7%,5.8%
+South Delridge,neighborhood,All Homes,"$502,700",0.7%,2.2%,2.5%,11.5%,6.8%,"$1,308",0.7%,2.2%,2.4%
+South Des Moines,neighborhood,All Homes,"$420,600",1.0%,2.9%,7.4%,10.3%,5.5%,$271,1.1%,3.0%,7.1%
+South Fork,neighborhood,All Homes,"$536,900",-0.6%,-3.8%,-9.9%,3.8%,1.7%,$260,-0.8%,-4.1%,-10.0%
+South Juanita,neighborhood,All Homes,"$645,000",1.1%,3.4%,5.2%,10.2%,6.8%,$453,1.1%,3.2%,5.1%
+South Lake Union,neighborhood,All Homes,"$578,800",-0.2%,0.6%,-2.1%,6.8%,6.6%,$774,-0.1%,0.7%,-2.0%
+South Park,neighborhood,All Homes,"$478,800",0.7%,2.1%,5.8%,11.6%,6.7%,$380,0.8%,2.2%,5.8%
+South Renton,neighborhood,All Homes,"$396,900",1.1%,4.3%,12.1%,12.3%,6.3%,$407,1.0%,4.1%,12.1%
+South Rose Hill,neighborhood,All Homes,"$982,400",1.4%,3.7%,4.9%,9.4%,7.1%,$493,1.4%,3.8%,4.9%
+South Union,neighborhood,All Homes,"$561,000",0.8%,3.0%,6.1%,8.1%,5.5%,$304,1.0%,3.1%,6.3%
+Southern Heights,neighborhood,All Homes,"$438,200",1.2%,3.8%,10.0%,11.9%,6.1%,$312,1.3%,4.0%,10.2%
+Squak Mountain,neighborhood,All Homes,"$781,500",1.0%,3.0%,5.1%,8.7%,6.6%,"$1,108",0.9%,2.9%,5.0%
+Starwood,neighborhood,All Homes,"$782,600",0.6%,1.8%,2.5%,6.6%,5.4%,$296,0.7%,1.7%,2.4%
+Steel Lake,neighborhood,All Homes,"$387,500",1.1%,3.5%,9.7%,9.7%,5.5%,$263,1.2%,3.5%,10.0%
+Stonegate,neighborhood,All Homes,"$1,056,000",1.1%,2.8%,6.5%,6.2%,5.1%,$332,0.9%,2.8%,6.4%
+Summerfield,neighborhood,All Homes,"$553,200",0.7%,2.3%,5.1%,8.3%,6.7%,$266,0.8%,2.3%,5.1%
+Summerwind,neighborhood,All Homes,"$717,200",1.2%,3.0%,5.6%,9.1%,6.2%,$302,1.0%,2.7%,5.2%
+Summit Park,neighborhood,All Homes,"$419,300",0.6%,1.2%,4.4%,9.9%,4.9%,$291,0.7%,1.0%,4.3%
+Sunnydale,neighborhood,All Homes,"$356,300",1.2%,3.6%,9.8%,10.8%,4.7%,$364,1.1%,3.7%,9.6%
+Sunset,neighborhood,All Homes,"$416,600",1.2%,3.5%,6.1%,10.1%,5.7%,$355,1.4%,3.5%,6.3%
+Sunset Hill,neighborhood,All Homes,"$952,600",0.5%,1.2%,0.8%,7.1%,5.7%,$520,0.4%,1.2%,0.8%
+Talbot Hill,neighborhood,All Homes,"$501,800",0.9%,2.9%,7.2%,8.3%,6.0%,$274,1.1%,3.0%,7.5%
+Talus,neighborhood,All Homes,"$854,600",1.0%,2.9%,2.8%,7.3%,5.6%,$373,1.1%,2.8%,2.8%
+Tam O'Shanter,neighborhood,All Homes,"$965,600",1.2%,3.8%,5.8%,9.3%,7.2%,$455,1.1%,3.9%,5.8%
+Tanner,neighborhood,All Homes,"$642,700",0.3%,1.2%,4.4%,6.8%,3.4%,$357,0.3%,1.4%,4.4%
+The Highlands,neighborhood,All Homes,"$2,995,000",-0.9%,-1.7%,-3.2%,3.7%,3.8%,$775,-0.9%,-1.6%,-3.2%
+The Lakes,neighborhood,All Homes,"$319,800",1.1%,3.9%,8.4%,10.7%,4.0%,$267,1.1%,3.9%,8.5%
+Tiffany Park,neighborhood,All Homes,"$495,700",0.9%,3.5%,9.4%,8.9%,5.7%,$251,0.8%,3.3%,9.1%
+Totem Lake,neighborhood,All Homes,"$356,700",1.4%,3.6%,5.1%,12.8%,7.0%,$377,1.6%,3.6%,5.3%
+Town Center,neighborhood,All Homes,"$313,600",0.8%,3.0%,5.3%,12.3%,7.7%,$397,1.0%,3.1%,5.3%
+Twin Lakes,neighborhood,All Homes,"$418,800",1.3%,4.3%,10.8%,9.2%,5.2%,$464,1.3%,4.3%,10.7%
+University District,neighborhood,All Homes,"$835,200",0.3%,1.0%,0.2%,8.0%,6.5%,$575,0.3%,0.9%,0.2%
+Upper West Ridge,neighborhood,All Homes,"$762,600",0.9%,3.0%,4.0%,9.1%,6.5%,$349,1.2%,3.3%,4.2%
+Uptown,neighborhood,All Homes,"$501,700",0.7%,2.0%,-2.2%,9.0%,5.5%,-$864,---,---,---
+Valley Industrial,neighborhood,All Homes,"$508,000",-0.2%,-0.6%,2.4%,9.5%,8.2%,$443,-0.2%,-0.7%,2.3%
+Valley Vue,neighborhood,All Homes,"$573,600",1.3%,4.3%,8.8%,7.7%,4.7%,$238,1.3%,3.9%,8.7%
+Vasa,neighborhood,All Homes,"$901,200",0.8%,3.0%,5.4%,9.3%,6.9%,$442,0.9%,3.0%,5.2%
+VerCello,neighborhood,All Homes,"$775,000",0.5%,1.9%,1.2%,7.2%,6.1%,$249,0.4%,1.6%,1.2%
+Victoria Hills,neighborhood,All Homes,"$506,000",1.2%,4.1%,8.6%,9.0%,5.8%,$263,1.2%,4.0%,8.7%
+Victoria Park,neighborhood,All Homes,"$497,900",1.3%,4.5%,10.2%,9.0%,6.2%,$263,1.2%,4.4%,10.0%
+Victory Heights,neighborhood,All Homes,"$687,600",0.7%,1.9%,1.2%,9.1%,6.6%,$453,0.7%,2.0%,1.1%
+View Ridge,neighborhood,All Homes,"$1,062,500",0.8%,2.1%,2.8%,8.2%,6.3%,$528,0.8%,2.1%,2.7%
+Vineyards,neighborhood,All Homes,"$591,700",0.9%,2.7%,6.5%,8.1%,6.5%,$296,1.0%,2.8%,6.5%
+Wallingford,neighborhood,All Homes,"$972,700",1.0%,2.4%,2.2%,7.7%,6.4%,$631,1.0%,2.3%,2.1%
+Waterfront,neighborhood,All Homes,"$736,800",0.1%,-0.1%,-2.9%,6.8%,5.3%,$703,0.1%,-0.1%,-2.9%
+Wedge,neighborhood,All Homes,"$759,300",1.0%,3.1%,3.4%,8.2%,6.2%,$338,0.9%,3.0%,3.4%
+Wedgwood,neighborhood,All Homes,"$835,900",0.8%,1.7%,0.5%,7.8%,6.2%,$483,0.8%,1.7%,0.6%
+West Campus,neighborhood,All Homes,"$329,300",1.2%,3.8%,9.3%,9.9%,4.9%,$234,0.9%,3.5%,9.3%
+West Hill,neighborhood,All Homes,"$426,400",1.4%,3.8%,8.2%,9.7%,6.1%,$245,1.7%,3.8%,8.4%
+West Lake Sammamish,neighborhood,All Homes,"$1,955,000",0.8%,2.2%,4.4%,8.4%,6.5%,$784,0.9%,2.2%,4.5%
+West Queen Anne,neighborhood,All Homes,"$1,088,300",0.6%,1.9%,2.0%,8.2%,6.5%,$686,0.6%,1.9%,1.9%
+West Wellington,neighborhood,All Homes,"$861,800",0.6%,1.8%,4.2%,7.4%,5.4%,$344,0.6%,1.8%,4.2%
+West Woodland,neighborhood,All Homes,"$807,800",0.7%,1.5%,-0.2%,8.3%,6.7%,$573,0.7%,1.6%,-0.2%
+Westlake,neighborhood,All Homes,"$654,500",0.4%,1.8%,0.6%,10.0%,6.2%,"$2,465",0.4%,1.8%,0.7%
+Westminster Triangle,neighborhood,All Homes,"$587,000",0.0%,0.7%,1.0%,9.6%,5.8%,$420,0.0%,0.7%,1.0%
+Whittier Heights,neighborhood,All Homes,"$838,200",0.6%,1.8%,2.2%,7.9%,6.9%,$547,0.6%,1.9%,2.2%
+Wilburton,neighborhood,All Homes,"$935,600",0.5%,1.6%,0.5%,9.6%,7.5%,$548,0.6%,1.7%,0.6%
+Windermere,neighborhood,All Homes,"$1,588,700",0.8%,1.9%,3.8%,7.9%,6.1%,$637,0.8%,1.9%,3.7%
+Windsong,neighborhood,All Homes,"$614,800",1.3%,3.5%,6.4%,8.0%,5.9%,$290,1.4%,3.6%,6.2%
+Windwood,neighborhood,All Homes,"$741,700",0.7%,2.0%,2.2%,8.5%,5.8%,$260,0.8%,2.0%,2.0%
+Winsper,neighborhood,All Homes,"$561,800",0.9%,2.9%,5.0%,7.5%,5.3%,$261,1.2%,3.2%,5.2%
+WoodRidge,neighborhood,All Homes,"$965,700",-0.1%,-0.4%,-3.1%,8.6%,7.2%,$529,-0.2%,-0.4%,-3.1%
+Woodbury Lane,neighborhood,All Homes,"$480,100",1.2%,3.9%,7.5%,8.8%,5.6%,$272,1.1%,3.8%,7.5%
+Woodinville Heights,neighborhood,All Homes,"$741,700",0.7%,2.2%,3.9%,7.7%,5.6%,$328,0.6%,2.2%,3.8%
+Woodland,neighborhood,All Homes,"$954,700",-0.2%,1.2%,-13.5%,1.5%,---,$977,-0.1%,1.2%,-13.5%
+Woodmont,neighborhood,All Homes,"$430,000",1.1%,3.3%,9.3%,9.2%,4.5%,$251,1.2%,3.3%,9.1%
+Yesler Terrace,neighborhood,All Homes,"$760,500",0.6%,1.4%,0.3%,9.2%,6.6%,$584,0.7%,1.4%,0.3%
+Zenith,neighborhood,All Homes,"$416,100",1.2%,3.4%,7.4%,10.5%,5.3%,$304,1.3%,3.4%,7.4%
